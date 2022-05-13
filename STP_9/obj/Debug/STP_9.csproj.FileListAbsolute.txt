@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\STP_9\STP_9\obj\Debug\STP_9.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\STP_9\STP_9\obj\Debug\STP_9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\STP_9\STP_9\bin\STP_9.dll.config
+C:\Users\Admin\source\repos\STP_9\STP_9\bin\STP_9.dll
+C:\Users\Admin\source\repos\STP_9\STP_9\bin\STP_9.pdb
+C:\Users\Admin\source\repos\STP_9\STP_9\obj\Debug\STP_9.dll
+C:\Users\Admin\source\repos\STP_9\STP_9\obj\Debug\STP_9.pdb
